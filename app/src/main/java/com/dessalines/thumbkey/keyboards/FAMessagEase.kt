@@ -313,6 +313,6 @@ val KB_FA_MESSAGEASE: KeyboardDefinition =
             KeyboardDefinitionModes(
                 main = KB_FA_MESSAGEASE_MAIN,
                 shifted = KB_FA_MESSAGEASE_MAIN,
-                numeric = FARSI_NUMERIC_KEYBOARD,
+                numeric = FARSI_NUMERIC_SAMSUNG_KEYBOARD,
             ),
     )
